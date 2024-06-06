@@ -1,4 +1,4 @@
-package com.tcs.exceptions;
+package com.tcs.exceptions.runtimeexceptions;
 
 /**
  *Some of RuntimeException examples:- 

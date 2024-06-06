@@ -1,4 +1,4 @@
-package com.tcs.exceptions;
+package com.tcs.exceptions.runtimeexceptions;
 
 /**
  * ArithmeticException is the example for RunTimeException it throws an
